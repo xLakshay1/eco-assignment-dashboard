@@ -2317,7 +2317,7 @@ def render_theory_page() -> None:
             <div class="professor-line">Prepared for Dr. Ejaz Ahmed by Lakshay</div>
             <p>
                 This dashboard explains and solves the assignment in the same spirit as the spreadsheet:
-                estimate plant investment and product cost from standard percentage relationships, then
+                estimate plant investment and product ost from standard percentage relationships, then
                 adjust the selected percentages until the totals match the required target.
             </p>
         </div>
